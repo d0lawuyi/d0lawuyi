@@ -1,0 +1,16 @@
+{
+  "handle": "d0lawuyi",
+  "name": "Daniel \"Uty\" Olawuyi",
+  "role": "Cloud & AI Engineer in training · B.S. Computer Science @ WGU",
+  "sections": {
+    "stack": ["Python", "JavaScript", "React Native", "C#", "C++", "SQL"],
+    "cloud": ["AWS", "Docker", "Supabase", "GitHub Pages"],
+    "projects": ["Grassroots", "GIMFiT", "Portfolio"]
+  },
+  "links": {"portfolio": "https://d0lawuyi.github.io/Potfolio/"},
+  "projects": [
+    {"name": "Grassroots", "desc": "Verified sports venue marketplace: find a field, create a game, split the cost", "url": "https://github.com/d0lawuyi/Grassroots"},
+    {"name": "GIMFiT", "desc": "Snap a photo of gym equipment, get exercises, sets/reps and target muscles", "url": "https://github.com/d0lawuyi/GIMFIT"},
+    {"name": "Portfolio", "desc": "Personal site on GitHub Pages, synced to my résumé", "url": "https://github.com/d0lawuyi/Potfolio"}
+  ]
+}
